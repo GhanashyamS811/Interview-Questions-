@@ -1,0 +1,21 @@
+1.       Tell me abt ur exp in big data.?
+
+2.       Structure of map
+
+3.       How do u copy data into map.?
+
+4.       What is map-reduce?
+
+5.       Unix commands?, copy delete
+
+6.       How u append data into hive?
+
+7.       If the hive db has 10 records n u want to delete 5 records, how do u do it.?
+
+8.       Explain joins.
+
+9.       Table A has 5 rec n table B has 3, how do you join them, so that I get data that is thr in only table B? write the query.
+
+10.   What are collections in java.?
+
+11.   How is data stored in hadoop.?
